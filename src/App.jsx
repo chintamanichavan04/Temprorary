@@ -1,7 +1,7 @@
 import { useState } from "react";
 import lovesvg from "./assets/All You Need Is Love SVG Cut File.svg";
 import lovesvg2 from "./assets/Love In The Air SVG Cut File.svg";
-import yesImage from "./assets/yesimage.gif";
+import yesImage from "./assets/yesImage.gif";
 import PleaseImage from "./assets/please-yes.gif";
 
 export default function Page() {
